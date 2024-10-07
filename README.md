@@ -7,7 +7,7 @@ Key Features:
 #Prepared Statements: Uses PreparedStatement to prevent SQL injection and enhance query performance.  
 #Transaction Management: Demonstrates handling transactions to ensure data consistency and integrity.  
 #Exception Handling: Implements robust error and exception handling mechanisms for database operations.                                                                                      
-#Project Use Case: Simulated use case for a Hospital Management System, showcasing patient record management using JDBC.
+#Project Use Case: Simulated use case for a Hospital Management System, showcasing patient record management using JDBC.                                                                     
 #Technologies Used:
 *Java SE
 *JDBC
